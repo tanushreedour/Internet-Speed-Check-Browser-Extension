@@ -2,3 +2,5 @@
 
 Run the javascript file.
 ``` node index.js ```
+
+``` nodemon start server.js ```
