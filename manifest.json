@@ -1,0 +1,17 @@
+{
+    "name": "Internet Speed Check",
+    "version": "1.0.0",
+    "description": "Check your internet speed quickly.",
+    "manifest_version": 3,
+    "author": "Tanushree Dour",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Internet Speed Measure",
+        "icons": {
+            "16": "img/icon.png",
+            "32": "img/icon.png",
+            "48": "img/icon.png",
+            "128": "img/icon.png"
+        }
+    }
+}
